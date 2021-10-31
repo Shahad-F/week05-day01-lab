@@ -15,7 +15,7 @@ button{
 }
 .context{
     text-align: center;
-    background-color: rgb(194, 238, 194);
+    background-color: rgb(241, 248, 241);
     padding: 2ch;
 }
 
@@ -23,4 +23,8 @@ h2{
     color: rgb(219, 69, 174);
     font-family:fantasy;
     text-decoration: underline;
+}
+img{
+    border-style: ridge  ;
+    border-color: rgb(148, 188, 226);
 }
