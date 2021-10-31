@@ -1,0 +1,26 @@
+button{
+    background-color: rgb(65, 128, 245);
+    margin: 1ch;
+    text-align: center;
+    border: none;
+    padding: 1ch;
+    font-family: cursive;
+    cursor: pointer;
+    color: rgb(189, 53, 53);
+}
+.Btn
+{
+    text-align: center;
+    padding: 1ch;
+}
+.context{
+    text-align: center;
+    background-color: rgb(194, 238, 194);
+    padding: 2ch;
+}
+
+h2{
+    color: rgb(219, 69, 174);
+    font-family:fantasy;
+    text-decoration: underline;
+}
